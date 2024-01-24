@@ -27,7 +27,7 @@ const mongooConnect = async () => {
     let connectionURL;
 
     if(!username || !password) {
-        connectionURL = `mongodb://${host}:${port}/${databaseName}`;
+        connectionURL = `mongodb://${host}:${port}/${databaseName}`; 
     } else {
         connectionURL = `mongodb://${username}:${password}@${host}:${port}/${databaseName}`;
     }
