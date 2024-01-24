@@ -1,0 +1,66 @@
+2024-01-17T03:13:05.665Z error: userRegistrationSuccessfulMessage is not defined
+2024-01-17T03:16:27.505Z error: userAlreadyExistsMessage is not defined
+2024-01-17T03:20:30.679Z error: User with this email already exists.
+2024-01-17T03:40:59.665Z error: User with this email already exists.
+2024-01-17T04:10:00.953Z error: User not found.
+2024-01-17T04:10:40.757Z error: Illegal arguments: string, undefined
+2024-01-17T04:12:56.644Z error: proccess is not defined
+2024-01-17T04:15:59.083Z error: proccess is not defined
+2024-01-17T04:16:14.133Z error: proccess is not defined
+2024-01-17T04:16:43.460Z error: user is not defined
+2024-01-17T04:17:50.986Z error: user is not defined
+2024-01-17T04:17:53.915Z error: User not found.
+2024-01-17T04:17:56.783Z error: user is not defined
+2024-01-17T04:19:39.630Z error: user is not defined
+2024-01-17T04:20:27.283Z error: user is not defined
+2024-01-17T04:22:59.092Z error: user is not defined
+2024-01-17T04:24:05.380Z error: proccess is not defined
+2024-01-17T04:26:09.420Z error: user is not defined
+2024-01-17T04:30:46.652Z error: user is not defined
+2024-01-17T04:35:44.067Z error: user is not defined
+2024-01-17T04:37:14.639Z error: user is not defined
+2024-01-17T04:37:32.388Z error: user is not defined
+2024-01-17T04:40:54.763Z error: user is not defined
+2024-01-17T04:43:03.975Z error: user is not defined
+2024-01-17T05:22:29.422Z error: Invalid token
+2024-01-17T05:23:35.070Z error: Invalid token
+2024-01-17T05:27:12.332Z error: Invalid token
+2024-01-17T05:31:11.391Z error: Invalid token
+2024-01-17T05:41:34.006Z error: control is not defined
+2024-01-17T05:41:49.567Z error: control is not defined
+2024-01-17T05:44:44.199Z error: control is not defined
+2024-01-17T05:44:56.483Z error: control is not defined
+2024-01-17T05:45:02.632Z error: control is not defined
+2024-01-17T05:45:22.515Z error: control is not defined
+2024-01-17T05:45:57.155Z error: control is not defined
+2024-01-17T05:59:33.155Z error: authHeader.startwith is not a function
+2024-01-17T06:04:23.665Z error: authHeader.startwith is not a function
+2024-01-17T06:06:53.620Z error: Invalid value "undefined" for header "Access-Control-Allow-Origin"
+2024-01-17T06:09:53.906Z error: Invalid value "undefined" for header "Access-Control-Allow-Origin"
+2024-01-17T06:10:11.394Z error: Invalid value "undefined" for header "Access-Control-Allow-Origin"
+2024-01-17T06:13:21.902Z error: authHeader.startwith is not a function
+2024-01-17T06:13:26.557Z error: authHeader.startwith is not a function
+2024-01-17T06:14:09.824Z error: authHeader.startswith is not a function
+2024-01-17T06:14:12.700Z error: authHeader.startswith is not a function
+2024-01-17T06:14:42.006Z error: Invalid token
+2024-01-17T06:14:49.658Z error: Invalid value "undefined" for header "Access-Control-Allow-Origin"
+2024-01-17T06:17:57.864Z error: Invalid value "undefined" for header "Access-Control-Allow-Origin"
+2024-01-17T06:29:32.696Z error: Not permission access api
+2024-01-17T06:29:52.894Z error: Not permission access api
+2024-01-17T06:31:23.857Z error: Invalid token
+2024-01-17T06:32:52.029Z error: The "code" argument must be of type number. Received type string ('Whitelisted Origin')
+2024-01-17T06:33:07.311Z error: The "code" argument must be of type number. Received type string ('Whitelisted Origin')
+2024-01-17T06:36:04.289Z error: Invalid value "undefined" for header "Access-Control-Allow-Origin"
+2024-01-17T06:40:55.724Z error: Not permission access api
+2024-01-17T06:50:12.248Z error: Invalid token
+2024-01-17T06:52:36.084Z error: Invalid token
+2024-01-17T06:54:47.371Z error: Unauthorized access
+2024-01-17T07:06:11.195Z error: Unauthorized access
+2024-01-17T07:06:26.539Z error: Operation `users.findOne()` buffering timed out after 10000ms
+2024-01-17T07:11:19.603Z error: Unauthorized access
+2024-01-17T07:11:27.010Z error: Invalid token
+2024-01-17T07:27:17.132Z error: Operation `users.findOne()` buffering timed out after 10000ms
+2024-01-17T14:24:43.896Z error: messageHeltMongoo.resolve is not a function
+2024-01-17T14:26:44.922Z error: messageHeltMongoo.resolve is not a function
+2024-01-17T14:30:30.712Z error: mongooHealtCheck(...).resolve is not a function
+2024-01-17T16:52:20.475Z error: Invalid token
