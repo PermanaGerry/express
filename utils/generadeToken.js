@@ -3,6 +3,7 @@ const jwt = require("jsonwebtoken");
 const generadeTokens = (userInfo) => {
     const accessTokenExpiration = process.env.ACCESS_TOKEN_EXPIRATION || "15m"; // Default to 15 minutes
     const refreshTokenExpiration = process.env.REFRESH_TOKEN_EXPIRATION || "7d"; // Default to 7 days
+    const secretToken = process.env.SECRET_KEY;
 
     // generade an access token
     const accessToken = jwt.sign(
@@ -13,7 +14,7 @@ const generadeTokens = (userInfo) => {
                 roles: userInfo.roles
             }
         },
-        process.env.SECRET_KEY,
+        secretToken,
         {expiresIn: accessTokenExpiration}
     );
 
@@ -26,7 +27,7 @@ const generadeTokens = (userInfo) => {
                 roles: userInfo.roles
             }
         },
-        process.env.SECRET_KEY,
+        secretToken,
         {expiresIn: refreshTokenExpiration}
     );
 
